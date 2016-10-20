@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-add a txt
-
-在master 分支上
-=======
-add a tx
-
-Creating a new branch is quick AND simple.t
->>>>>>> feature1
+大家好我是git爱好者，欢迎联系我123srg@163.com；
