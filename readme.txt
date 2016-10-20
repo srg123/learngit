@@ -22,5 +22,9 @@ git status命令。
 你可以简单理解为，需要提交的文件修改通通放到暂存区，然后，一次性提交暂存区的所有修改。
 一旦提交后，如果你又没有对工作区做任何修改，那么工作区就是“干净”的
 
-管理修改
-再次修改  
+
+git checkout -- file  撤销修改
+git reset HEAD file 暂存区撤销到工作区
+git reset HEAD comID 版本回退
+
+  
